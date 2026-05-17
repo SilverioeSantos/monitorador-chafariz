@@ -1,4 +1,4 @@
-<h1 align="center"> Focus Timer V2 - Pomodoro </h1>
+<h1 align="center"> Monitorador de Chafariz </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
