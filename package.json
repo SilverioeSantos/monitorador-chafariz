@@ -1,7 +1,7 @@
 {
   "name": "ecofont-monitor",
   "private": true,
-  "homepage": "https://github.com/SilverioeSantos/monitor-chafariz",
+  "homepage": "https://github.com/SilverioeSantos/monitorador-chafariz",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
