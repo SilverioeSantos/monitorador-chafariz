@@ -1,16 +1,35 @@
-# React + Vite
+<h1 align="center"> Focus Timer V2 - Pomodoro </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<br>
 
-## React Compiler
+<p align="center">
+  <img alt="projeto monitorador" src="./src/assets/screen.png" width="100%">
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias
 
-## Expanding the ESLint configuration
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML e CSS
+- JavaScript
+- Git e Github
+- React + Node
+
+## 💻 Projeto
+
+O projeto “Monitorador de Chafariz” foi desenvolvido para proporcionar ao Shopping Quintino um controle mais eficiente sobre o consumo de energia, o uso de água e a qualidade da água do chafariz existente no local. Com o monitoramento contínuo dessas métricas, torna-se possível identificar oportunidades de melhoria, realizar ajustes necessários no funcionamento do sistema e promover uma gestão mais sustentável e eficiente do chafariz.
+
+- [Acesse o projeto finalizado (online).](https://silverioesantos.github.io/monitorador-chafariz/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
